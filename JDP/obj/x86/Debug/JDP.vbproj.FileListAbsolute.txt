@@ -1,0 +1,13 @@
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\bin\Debug\JDP.exe.config
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\bin\Debug\JDP.exe
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\bin\Debug\JDP.pdb
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\bin\Debug\JDP.xml
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.about.resources
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.cb.resources
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.cp.resources
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.Form1.resources
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.Resources.resources
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.vbproj.GenerateResource.Cache
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.exe
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.xml
+C:\Users\AVI\Documents\Visual Studio 2010\Projects\JDP\JDP\obj\x86\Debug\JDP.pdb
